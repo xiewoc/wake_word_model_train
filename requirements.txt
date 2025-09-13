@@ -1,0 +1,8 @@
+numpy==1.23.5
+librosa==0.10.0.post2
+sounddevice==0.4.6
+torch==2.0.1
+torchvision==0.15.2
+gradio==3.41.2
+matplotlib==3.8.0
+scipy==1.11.3
